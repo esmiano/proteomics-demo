@@ -4,7 +4,8 @@
 # Date created: 07-OCT-2026
 # 
 # Description:
-# A basic pipeline for processing and analysis of proteomics data.
+# A basic pipeline for processing and analysis of proteomics data. Additional 
+# changes to come.
 
 # ==============================================================================
 # PREPARATION
